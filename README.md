@@ -2,6 +2,7 @@
 - 👀 I’m interested in bioinformatics and genomics. My goal is to learn more coding and genomics concepts and apply these skills towards gene therapies.
 - 🌱 I’m currently a graduate student in the Master's of Biological Sciences program at the University of Minnesota. Additioanlly, I earned my B.A. in Biology, Society and Environment also at UMN.
 - 💞️ I’m looking to post projects I've worked on to showcase to employers and colleagues what I've been working on.
+- :brain: See what I'm working on: https://github.com/David-Moline
 - 📫 You can reach me via email at molin239 (at) umn.edu
 
 <!---
